@@ -24,7 +24,7 @@
 </head>
 <body>
   <header>
-    <img src="your-image-link.png" alt="Confused AI Bots">
+    <img src="the-great-paradox-img.png" alt="Confused AI Bots">
     <h1>The Great Prompt Paradox</h1>
     <p class="subtitle">When AI talks to AI… we all lose a few IQ points.</p>
     <button class="cta-button" onclick="document.getElementById('products').scrollIntoView({ behavior: 'smooth' })">Browse the Confusion</button>
